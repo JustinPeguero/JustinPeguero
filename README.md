@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Creating A Virtual Machine On Azure](https://github.com/JustinPeguero/virtual-machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/justinpeguero/configure-ad)
+  - [Active Directory Network File Shares & Permissions](https://github.com/JustinPeguero/Network-File-Shares-And-Permissions)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/justinpeguero/azure-network-protocols)
   
 
